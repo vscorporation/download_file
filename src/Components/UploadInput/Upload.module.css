@@ -1,0 +1,37 @@
+.downloadFile{
+    width: 164px;
+    height: 52px;
+    cursor: pointer;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+    background:green;
+}
+
+.downloadFile span{
+    max-width: 130px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+}
+.downloadFile input{
+    display: none;
+}
+li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20pt;
+}
+li a:hover{
+    color: blue;
+}
+ul{
+    list-style: none;
+}
